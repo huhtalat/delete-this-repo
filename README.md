@@ -14,6 +14,6 @@ This is my readme.
 #### Alaotsikko
 ![](http://merlin.sarjakuvablogit.com/files/2012/01/131981121234.png)
 ##### Alaotsikko
-iuhsaaoiuhs
+juttuja jee jee :DDD
 
 [Donald Trump - wikipedia](https://fi.wikipedia.org/wiki/Kylpyankka)
