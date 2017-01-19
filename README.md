@@ -6,10 +6,10 @@ This is my readme.
 olen omena
 ### Alaotsikko
 
- | Kissarotu | Kpl|
- |:-----------|-----:|
- |Suomenkissa | 40 |
- |Maatiaiskissa | 3 |
+ | Kissarotu|Kpl|
+ |:-------|---:|
+ |Suomenkissa|40|
+ |Maatiaiskissa|3|
 
 #### Alaotsikko
 ![](http://merlin.sarjakuvablogit.com/files/2012/01/131981121234.png)
