@@ -3,7 +3,7 @@ ohjelmistosuunnittelu ja -testaus
 This is my readme.
 
 ## Alaotsikko
-olen omena
+[wikiin](https://github.com/huhtalat/delete-this-repo/wiki)
 ### Alaotsikko
 
 | Kissarotu | Kpl |
