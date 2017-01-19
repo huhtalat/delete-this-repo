@@ -5,9 +5,14 @@ This is my readme.
 ## Alaotsikko
 olen omena
 ### Alaotsikko
-papapala
+
+ | Kissarotu | Kpl|
+ |:-----------|-----:|
+ |Suomenkissa | 40 |
+ |Maatiaiskissa | 3 |
+
 #### Alaotsikko
-![](https://commons.wikimedia.org/wiki/File:Rubber_duckies_So_many_ducks.jpg)
+![](http://merlin.sarjakuvablogit.com/files/2012/01/131981121234.png)
 ##### Alaotsikko
 iuhsaaoiuhs
 
